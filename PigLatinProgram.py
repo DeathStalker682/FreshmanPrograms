@@ -1,7 +1,8 @@
 #Name: PigLatin
-#Author: Owen
+#Author: Owen Maguire
 #Date: 12/16/21
 #Description: Translates text into Piglatin
+#Location: Beaverton High School, Oregon
 
 def translate():
 #Translating "qu"
