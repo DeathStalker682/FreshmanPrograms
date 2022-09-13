@@ -2,6 +2,7 @@
 #Author: Owen Maguire
 #Date: 4/12/22
 #Desc: Turn decimals into fractions 
+#Location: Beaverton High School, Oregon
 
 #math library
 import math
@@ -57,5 +58,3 @@ while(True):
   again = input(" Convert again? (Y/N)")
   if again[0].upper() == "N":
     break 
-    
-#Some parts of this program are broken fyi
