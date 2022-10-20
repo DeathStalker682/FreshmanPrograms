@@ -3,7 +3,7 @@ Name: Dynamic Survey
 Author: Owen Maguire
 Date: 10/4/21
 Description: A survey of seven questions for the user. 
-Location: Baeverton Hish School, Oregon
+Location: Beaverton High School, Oregon
 """
 
 
